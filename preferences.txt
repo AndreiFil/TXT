@@ -1,3 +1,4 @@
 preferedFilmsGenre - fiction
 preferedFood - Pizzaaaa
 preferedSeason - Winter
+anySkills - softSkills
