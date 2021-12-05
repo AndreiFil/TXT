@@ -1,0 +1,3 @@
+name - Andrei
+age - 33
+expected salary - N/A
