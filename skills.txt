@@ -1,0 +1,4 @@
+newSkills - hardSkills
+instruments - Instrument_1 - Postman
+Instrument_2 - Fiddler
+DataBase - SQL
